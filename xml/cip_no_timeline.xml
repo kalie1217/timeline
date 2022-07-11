@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<timeline title="NORWAY" subtitle="Timeline of Norway’s History" subtitle_X="120"
+    subtitle_Y="12" path="images/timeline/cip_no_timeline.png" rolloverColorBtn="#0066cc">
+    <instructions title="Instructions">
+        <content>Click on a date button below to view significant events or drag the scrollbar to
+            view the entire timeline.</content>
+    </instructions>
+	
+  <year node_year="3000–2500 BCE" node_button="3000–2500 BCE">
+    <month node_month="">
+      <day node_day=""><b>Humans begin to settle in eastern Norway, growing grain and raising livestock.</b></day>
+    </month>
+  </year>
+	
+  <year node_year="800–1500 CE" node_button="">
+    <month node_month="">
+      <day node_day="">Norwegians first settle on the Scandinavian peninsula during the Viking Age.</day>
+    </month>
+  </year>
+	
+  <year node_year="900" node_button="900">
+    <month node_month="">
+      <day node_day=""><b>Regional groups unite to form a kingdom in Norway.</b></day>
+    </month>
+  </year>
+	
+  <year node_year="1814–1905" node_button="">
+    <month node_month="">
+      <day node_day="">
+        Norway enters into a union with Sweden until parliament proclaims independence.
+      </day>
+    </month>
+  </year>
+	
+  <year node_year="1914" node_button="1914">
+    <month node_month="">
+      <day node_day=""><b>Norway joins Sweden and Denmark in a policy of neutrality in World War I.</b></day>
+    </month>
+  </year>
+	
+  <year node_year="1939–1945" node_button="1939–1945">
+    <month node_month="">
+      <day node_day=""><b>Norway declares its neutrality at the start of World War II. Nazi forces invade anyway, maintaining control until 1945.</b></day>
+    </month>
+  </year>
+	
+  <year node_year="1970s" node_button="1970s">
+    <month node_month="">
+      <day node_day="">
+        <b>Norway discovers significant deposits of oil and gas in the North Sea.</b>
+      </day>
+    </month>
+  </year>
+	
+  <year node_year="1993" node_button="1993">
+    <month node_month="">
+      <day node_day=""><b>Norway hosts the Oslo Accords, playing a significant role in peace negotiations between Israel and the Palestine Liberation Organization.</b></day>
+    </month>
+  </year>
+		
+  <year node_year="1994" node_button="">
+    <month node_month="">
+      <day node_day="">A referendum rejects European Union membership with a margin of approximately 5%.</day>
+    </month>
+  </year>
+	
+  <year node_year="2000" node_button="">
+    <month node_month="">
+      <day node_day="">
+        The ruling Conservative government resigns over a politically charged matter concerning power generation.
+      </day>
+    </month>
+  </year>
+	
+  <year node_year="2007" node_button="2007">
+    <month node_month="">
+      <day node_day=""><b>A constitutional amendment abolishes the bicameral structure of Norway’s Storting parliament, restoring it to its unicameral roots.</b></day>
+    </month>
+  </year>
+	
+  <year node_year="2013" node_button="2013">
+    <month node_month="">
+      <day node_day=""><b>Center-right Conservative party wins parliamentary elections.</b></day>
+    </month>
+  </year>
+
+
+</timeline>
